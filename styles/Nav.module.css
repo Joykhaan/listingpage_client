@@ -1,0 +1,12 @@
+.sticky{
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+.navstyle >a {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
